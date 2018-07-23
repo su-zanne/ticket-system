@@ -1,0 +1,644 @@
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+e
+Athletics: 4
+Equestrian Jumping: 79
+Football: 21
+Handball: 66
+Tennis: 89
+Volleyball: 41
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [null, null, null]
+Emma Williams: [null, null, null]
+John Williams: [null, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Athletics
+
+Enter number of tickets to purchase: 
+4
+
+4 ticket(s) purchased for: Athletics
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Equestrian Jumping
+
+Enter number of tickets to purchase: 
+2
+
+2 ticket(s) purchased for: Equestrian Jumping
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Football
+
+Enter number of tickets to purchase: 
+8
+
+8 ticket(s) purchased for: Football
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Emma Williams
+
+Type the name of the event: 
+Equestrian Jumping
+
+Enter number of tickets to purchase: 
+8
+
+8 ticket(s) purchased for: Equestrian Jumping
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+John Williams
+
+Type the name of the event: 
+Tennis
+
+Enter number of tickets to purchase: 
+2
+
+2 ticket(s) purchased for: Tennis
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+e
+Athletics: 0
+Equestrian Jumping: 69
+Football: 13
+Handball: 66
+Tennis: 87
+Volleyball: 41
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [Athletics 4, Equestrian Jumping 2, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Equestrian Jumping
+
+Enter number of tickets to purchase: 
+10
+
+10 ticket(s) purchased for: Equestrian Jumping
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [Athletics 4, Equestrian Jumping 12, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+e
+Athletics: 0
+Equestrian Jumping: 59
+Football: 13
+Handball: 66
+Tennis: 87
+Volleyball: 41
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Athletics
+
+Enter number of tickets to return: 
+4
+
+4 ticket(s) returned.
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Equestrian Jumping
+
+Enter number of tickets to return: 
+10
+
+10 ticket(s) returned.
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+e
+Athletics: 4
+Equestrian Jumping: 69
+Football: 13
+Handball: 66
+Tennis: 87
+Volleyball: 41
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [null, Equestrian Jumping 2, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Volleyball
+
+Enter number of tickets to purchase: 
+20
+
+20 ticket(s) purchased for: Volleyball
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [Volleyball 20, Equestrian Jumping 2, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+e
+Athletics: 4
+Equestrian Jumping: 69
+Football: 13
+Handball: 66
+Tennis: 87
+Volleyball: 21
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+test test
+
+No clients by that name.
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+test
+
+No events by that name.
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+test test
+
+No clients by that name.
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+test
+
+No events by that name.
+
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Anna Smith
+
+Type the name of the event: 
+Tennis
+
+Enter number of tickets to purchase: 
+2
+
+No tickets purchased. Client already has tickets for maximum of 3 events.
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Emma Williams
+
+Type the name of the event: 
+Volleyball
+
+Enter number of tickets to purchase: 
+1000
+
+Not enough tickets left. A note in the form of a letter
+printed to file.
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Emma Williams
+
+Type the name of the event: 
+Volleyball
+
+Enter number of tickets to purchase: 
+-100
+
+Not valid input
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+b
+
+Type first name and surname of client: 
+Emma Williams
+
+Type the name of the event: 
+Volleyball
+
+Enter number of tickets to purchase: 
+0
+
+Not valid input
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+e
+Athletics: 4
+Equestrian Jumping: 69
+Football: 13
+Handball: 66
+Tennis: 87
+Volleyball: 21
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [Volleyball 20, Equestrian Jumping 2, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+John Williams
+
+Type the name of the event: 
+Handball
+
+Enter number of tickets to return: 
+2
+
+Client does not have any tickets for this event.
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+John Williams
+
+Type the name of the event: 
+Tennis
+
+Enter number of tickets to return: 
+100
+Invalid return request. Client order contains 2 ticket(s).
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [Volleyball 20, Equestrian Jumping 2, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+r
+
+Type first name and surname of client: 
+John Williams
+
+Type the name of the event: 
+Tennis
+
+Enter number of tickets to return: 
+-100
+Invalid return request. Client order contains 2 ticket(s).
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+c
+Anna Smith: [Volleyball 20, Equestrian Jumping 2, Football 8]
+Emma Williams: [Equestrian Jumping 8, null, null]
+John Williams: [Tennis 2, null, null]
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+test
+Invalid entry, try again
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+9
+Invalid entry, try again
+------------------------------
+MENU
+f - finish
+e - list all events
+c - list all clients
+b - update data after ticket purchase
+r - update data after ticket cancellation
+------------------------------
+Type a letter and press Enter
+f
